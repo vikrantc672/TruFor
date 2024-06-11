@@ -1,4 +1,4 @@
 # TruFor
 
 #Commands
-sudo sh docker_run.sh 
+sudo bash docker_run.sh 
