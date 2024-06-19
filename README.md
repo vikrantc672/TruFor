@@ -1,6 +1,6 @@
 # TruFor
 
-put the folder for input images path in docker_run.sh file
+put the folder for input images path in docker_run.sh file\\
 
 #Commands
 Step 1: sudo bash docker_build.sh 
