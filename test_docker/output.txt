@@ -1,12 +1,12 @@
 => loading model from ../weights/trufor.pth.tar
-Scores saved to scoresMS_Morph.csv
+Scores saved to scoresphotoshop.csv
 Localization maps have been saved.
-Bonafide: 27
-Morph:    1
-Total:   28
-Morphs Percentage:  3.571428571428571
-Bonafide Percentage:  96.42857142857143
+Bonafide: 1
+Morph:    69
+Total:   70
+Morphs Percentage:  98.57142857142858
+Bonafide Percentage:  1.4285714285714286
 Morph Files As per Trufor:
- ['7_2XXXX183.jpg']
+ ['b7p7.jpg', 'b55p55.jpg', 'b65p65.JPG', 'b61p61.jpg', 'b9p9.jpg', 'b31p31.JPG', 'b36p36.JPG', 'b20p20.jpeg', 'b3p3.jpg', 'b42p42.JPG', 'b5p5.jpg', 'b52p52.JPG', 'b13p13.JPG', 'b70p70.JPG', 'b11p11.jpg', 'b12p12.JPG', 'b32p32.jpeg', 'b34p34.JPG', 'b27p27.jpg', 'b14p14.jpg', 'b54p54.JPG', 'b24p24.JPG', 'b45p45.jpg', 'b46p46.jpg', 'b62p62.jpg', 'b10p10.jpg', 'b64p64.JPG', 'b17p17.jpg', 'b41p41.jpg', 'b21p21.JPG', 'b8p8.jpg', 'b50p50.JPG', 'b69p69.JPG', 'b59p59.jpeg', 'b56p56.JPG', 'b18p18.JPG', 'b63p63.JPG', 'b57p57.jpg', 'b38p38.jpg', 'b25p25.JPG', 'b49p49.jpg', 'b68p68.JPG', 'b44p44.JPG', 'b23p23.jpg', 'b40p40.jpg', 'b39p39.jpg', 'b6p6.jpg', 'b35p35.JPG', 'b22p22.jpg', 'b28p28.jpg', 'b53p53.jpg', 'b48p48.JPG', 'b47p47.jpg', 'b30p30.jpg', 'b4p4.jpg', 'b67p67.JPG', 'b58p58.JPG', 'b66p66.jpg', 'b26p26.jpg', 'b43p43.jpg', 'b1p1.jpg', 'b16p16.jpg', 'b51p51.JPG', 'b33p33.jpeg', 'b2p2.jpg', 'b60p60.JPG', 'b29p29.JPG', 'b19p19.jpg', 'b37p37.jpg']
 Bonafide Files As per Trufor:
- ['1_2404XXXXX11.jpg', '5_240412499747.jpg', '6_240412862168.jpg', '3_240412458202.jpg', '9_240412648378.jpg', '11_240412489549.jpg', '14_240412739245.jpg', '13_240412843219.jpg', '12_240412452142.jpg', '14_240412736229.jpg', '2_240412555328.jpg', '9_240411120460.jpg', '10_240411471229.jpg', '11_240411878025.jpg', '3_240412893600.jpg', '8_240412634358.jpg', '7_2404XXXXX27.jpg', '5_240412585571.jpg', '10_240412872324.jpg', '4_240412497793.jpg', '2_240411200603.jpg', '1_24XXXXXX.jpg', '4_240412425466.jpg', '6_240411517490.jpg', '8_240411879340.jpg', '12_240412684908.jpg', '13_240412687140.jpg']
+ ['b15p15.jpg']

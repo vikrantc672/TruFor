@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-INPUT_DIR=./MS_Morph
+INPUT_DIR=./photoshop
 OUTPUT_DIR=./output
 MASK_RESULT_DIR=./mask
 path=$(realpath ${INPUT_DIR})
