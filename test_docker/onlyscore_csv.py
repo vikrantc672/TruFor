@@ -1,3 +1,4 @@
+#python onlyscore_csv.py --image_dir /home/vikrant/Downloads/TruFor-main/test_docker/pairs --output_dir /home/vikrant/Downloads/TruFor-main/test_docker/output
 import argparse
 import os
 import numpy as np
@@ -8,14 +9,15 @@ import csv
 # Parse command-line arguments
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument('--image_dir', type=str, help='input image directory')
-parser.add_argument('--output_dir', type=str, help='output directory')
-parser.add_argument('--mask_dir', type=str, default='', help='ground truth mask directory (optional)')
+parser.add_argument('--output_dir', type=str, help='output directory of .npz')
+parser.add_argument('--score_file', type=str, help='score file name')
 args = parser.parse_args()
 
 image_dir = args.image_dir
 output_dir = args.output_dir
-mask_dir = args.mask_dir
-csv_file = "scores_photoshop_scanned.csv"
+score_file = args.score_file
+
+csv_file = "scores"+score_file+".csv"
 
 # List all images in the directory
 image_files = [f for f in os.listdir(image_dir) if f.endswith(('jpg', 'jpeg', 'png', 'bmp','JPG'))]

@@ -1,0 +1,12 @@
+=> loading model from ../weights/trufor.pth.tar
+Scores saved to scoresMS_Morph.csv
+Localization maps have been saved.
+Bonafide: 27
+Morph:    1
+Total:   28
+Morphs Percentage:  3.571428571428571
+Bonafide Percentage:  96.42857142857143
+Morph Files As per Trufor:
+ ['7_2XXXX183.jpg']
+Bonafide Files As per Trufor:
+ ['1_2404XXXXX11.jpg', '5_240412499747.jpg', '6_240412862168.jpg', '3_240412458202.jpg', '9_240412648378.jpg', '11_240412489549.jpg', '14_240412739245.jpg', '13_240412843219.jpg', '12_240412452142.jpg', '14_240412736229.jpg', '2_240412555328.jpg', '9_240411120460.jpg', '10_240411471229.jpg', '11_240411878025.jpg', '3_240412893600.jpg', '8_240412634358.jpg', '7_2404XXXXX27.jpg', '5_240412585571.jpg', '10_240412872324.jpg', '4_240412497793.jpg', '2_240411200603.jpg', '1_24XXXXXX.jpg', '4_240412425466.jpg', '6_240411517490.jpg', '8_240411879340.jpg', '12_240412684908.jpg', '13_240412687140.jpg']
