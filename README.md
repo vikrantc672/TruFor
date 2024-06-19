@@ -1,11 +1,12 @@
-# TruFor
+# TruFor\
 
-put the folder for input images path in docker_run.sh file\\
+put the folder for input images path in docker_run.sh file\
 
 #Commands\
-Step 1: sudo bash docker_build.sh 
-Step 2: Kindly specify input images path in docker_run.sh file in the variable INPUT_DIR
-step 3: sudo bash docker_run.sh >output.txt
-Step 4: Output is shown in output.txt file
+step 1: cd test_docker\
+Step 2: sudo bash docker_build.sh\
+Step 3: Kindly specify input images path in docker_run.sh file in the variable INPUT_DIR\
+step 4: sudo bash docker_run.sh >output.txt\
+Step 5: Output is shown in output.txt file\
 
 
