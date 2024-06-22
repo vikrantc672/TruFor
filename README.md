@@ -1,9 +1,10 @@
 # TruFor
 put the folder for input images path in docker_run.sh file
 
-# Commands
-step 1: cd test_docker\
-Step 2: sudo bash docker_build.sh\
+# For Ubuntu/Mac
+Step 1: Put the folder for input images path in docker_run.sh file
+step 2: cd test_docker\
+Step 3: sudo bash docker_build.sh\
 Step 3: Kindly specify input images path in docker_run.sh file in the variable INPUT_DIR\
 
 CAUTION!! : KINDLY TAKE CARE THAT THERE IS NO SPACE IN YOUR INPUT FILE PATH\
@@ -11,3 +12,11 @@ step 4: sudo bash docker_run.sh >output.txt\
 Step 5: Output is shown in output.txt file\
 
 
+# For Windows
+Step 1: Put the folder for input images path in docker_run.bat file
+Step 2: try command docker_build.bat if doesn't run then install docker desktop windows from https://docs.docker.com/desktop/release-notes/ download 24.0
+Step 3: After download install the docker the computer will restart
+Step 4: Then check if docker installed on not using the command docker -v
+Step 5: docker_build.bat
+Step 6: docker_run.bat>output.txt
+Step 7: Output is shown in output.txt file\
