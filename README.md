@@ -22,3 +22,4 @@ Step 5: docker_build.bat\
 You might need to start the docker from the desktop by clicking on docker shortcut\
 Step 6: docker_run.bat>output.txt\
 Step 7: Output is shown in output.txt file\
+Step 8:Step 6: Kindly put the csv generated in MMFUSION in test_docker folder and then specify the path in overall_accuracy.py the paths of Trufor and MMFUSION CSV and then run the command python3 overall_accuracy.py to get the overall accuracy
